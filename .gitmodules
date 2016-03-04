@@ -1,3 +1,6 @@
 [submodule "lib/Adafruit_Motorshield"]
 	path = lib/Adafruit_Motorshield
 	url = https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library.git
+[submodule "lib/TimerOne"]
+	path = lib/TimerOne
+	url = https://github.com/PaulStoffregen/TimerOne.git
